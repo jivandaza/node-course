@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "react": "^18.1.0",
+    "responsimple": "^1.0.1"
+  },
+  "name": "primeros-pasos-npm",
+  "version": "1.0.0",
+  "description": "En este pproyecto aprendemos NPM",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jossid Daza <joser1.jidl@gmail.com>",
+  "license": "MIT"
+}

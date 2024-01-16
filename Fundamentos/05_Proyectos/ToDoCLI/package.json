@@ -1,0 +1,22 @@
+{
+  "name": "todocli",
+  "version": "1.0.0",
+  "description": "Desarrollar un ToDo List basico mediante la terminal de comandos",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js",
+    "dev-file": "nodemon app_with_file.js",
+    "start-file": "node app_with_file.js"
+  },
+  "keywords": [],
+  "author": "Jossid Daza",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}

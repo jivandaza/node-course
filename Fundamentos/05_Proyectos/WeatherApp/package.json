@@ -1,0 +1,14 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "En esta App traeremos la información del clima de la ciudad que el usuario ingrese",
+  "main": "app.js",
+  "type": "module",
+  "keywords": [],
+  "author": "Jivandaza",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.5",
+    "chalk": "^5.3.0"
+  }
+}
