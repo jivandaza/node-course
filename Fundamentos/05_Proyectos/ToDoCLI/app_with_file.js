@@ -64,7 +64,6 @@ function loadTasksOfFile() {
             displayMessageWarning("La base de datos no esta disponible");
         }
     } else {
-        //displayMessageAccept("La base de datos esta disponible");
         try {
             const data = readFileSync(DB_FILE, "utf-8");
             const lines = data.split("\n");
