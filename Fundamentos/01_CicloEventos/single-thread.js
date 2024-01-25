@@ -6,10 +6,10 @@ setTimeout(() => {
 
 setTimeout(() => {
     console.log("Dos");
-}, 0);
+}, 1000);
 
 setTimeout(() => {
     console.log("Tres");
-}, 0);
+}, 2000);
 
 console.log("Fin");

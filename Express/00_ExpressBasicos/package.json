@@ -1,0 +1,12 @@
+{
+  "name": "00_expressbasicos",
+  "version": "1.0.0",
+  "description": "Comenzando a utilizar Express.js",
+  "type": "module",
+  "keywords": [],
+  "author": "Jivandaza",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

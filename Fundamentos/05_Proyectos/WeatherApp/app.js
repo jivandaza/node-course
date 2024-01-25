@@ -72,7 +72,6 @@ function displayWeather(city, weatherData) {
 }
 
 function initApp() {
-
     let city;
 
     if (!process.argv[2]) {

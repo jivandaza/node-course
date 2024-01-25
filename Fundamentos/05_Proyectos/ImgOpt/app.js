@@ -41,4 +41,4 @@ const processImage = async () => {
     }
 }
 
-processImage();
+processImage().then().catch();
